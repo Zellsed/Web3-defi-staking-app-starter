@@ -16,7 +16,7 @@
 ## Transfer 25 tokens.
 ![{2A738C29-13F2-4819-8DFA-DBB17EFC4D04} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/feaea09b-6b69-40c9-88f9-d76759a9e2dc)
 
-## Transfer 50 tokens to activate the AIRDROP countdown timer.
+## Transfer 50+ tokens to activate the AIRDROP countdown timer.
 ![{8FC69444-F8A6-4424-8D5C-7BD40F1B062C} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/18874e13-5988-48f4-9e10-8ef68a5a4357)
 
 ## To download me simply open up the terminal and run: 
