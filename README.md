@@ -4,6 +4,8 @@
 
 - Development Direction: Additional features can be added, such as when the countdown timer reaches 0, it will issue tokens or rewards for users. Correspondingly, a certain amount of Reward tokens will be added to their accounts as an encouraging gift, incentivizing their positive actions.
 
+![{8FC69444-F8A6-4424-8D5C-7BD40F1B062C} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/18874e13-5988-48f4-9e10-8ef68a5a4357)
+
 ## To download me simply open up the terminal and run: 
 
 git clone https://github.com/Zellsed/defi-staking-app-starter.git
