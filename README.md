@@ -25,7 +25,7 @@ git clone https://github.com/Zellsed/defi-staking-app-starter.git
 
 This code was learned and referenced from the "Course On Demand" on YouTube, and it is reverse-engineered from "DAPP University." You can find his page on YouTube. If you find it interesting, you may want to explore his works.
 
-## 1 To Clone or download this project simply run: 
+## 1. To clone or download this project, simply run: 
 
 git clone - https://github.com/Zellsed/defi-staking-app-starter.git
 
@@ -33,7 +33,7 @@ git clone - https://github.com/Zellsed/defi-staking-app-starter.git
 
 npm install
 
-### 4. Make sure truggle -g is installed
+### 4. Make sure truffle -g is installed
 
 # use truffle compiile 
 (compile contracts)
@@ -42,7 +42,7 @@ npm install
 (migrate contracts on the blockchain)
 
 # use truffle test
-to run Moch and Chai testing suite
+(to run Moch and Chai testing suite)
 
 ### Activate Application
 
