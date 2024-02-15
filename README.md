@@ -6,9 +6,9 @@
 
 ![{C2FA09A1-9BEE-4BDB-8879-B0E368DA88EA} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/7c9423a4-b35e-4cbc-bf59-88cea51093b2)
 
-![{0E3A5391-4940-421D-A5FE-66CF7AD3314C} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/cce40c98-d16d-4df5-9ef8-b67a020c38f1)
-
 ![{5C84C65C-5EF1-4A0D-B158-0F4443F8348A} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/ea2bdcfc-9543-4713-bcf4-f9eccd9c85a3)
+
+![{0E3A5391-4940-421D-A5FE-66CF7AD3314C} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/cce40c98-d16d-4df5-9ef8-b67a020c38f1)
 
 ![{2A738C29-13F2-4819-8DFA-DBB17EFC4D04} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/feaea09b-6b69-40c9-88f9-d76759a9e2dc)
 
