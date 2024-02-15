@@ -23,7 +23,7 @@
 
 git clone https://github.com/Zellsed/defi-staking-app-starter.git
 
-This code has been revesed engineered from Greg DAPPuniversity.com! If you enjoyed this course go check out his work ;) 
+This code has been revesed engineered from Greg DAPPuniversity.com! If you enjoyed this course go check out his work :) 
 Please feel free to clone and style this project at your own discretion!
 
 ## 1 To Clone or download this project simply run: 
