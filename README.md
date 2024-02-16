@@ -4,6 +4,8 @@
 
 - Development Direction: Additional features can be added, such as when the countdown timer reaches 0, it will issue tokens or rewards for users. Correspondingly, a certain amount of Reward tokens will be added to their accounts as an encouraging gift, incentivizing their positive actions.
 
+## Tools used: Node.js, Truffle, Ganache, React.js, Solidity, Metamask.
+
 ## Initial screen, failure to connect to Metamask will result in being stuck at the waiting screen.
 ![{C2FA09A1-9BEE-4BDB-8879-B0E368DA88EA} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/7c9423a4-b35e-4cbc-bf59-88cea51093b2)
 
