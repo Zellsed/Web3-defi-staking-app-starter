@@ -25,8 +25,6 @@
 
 git clone https://github.com/Zellsed/defi-staking-app-starter.git
 
-This code was learned and referenced from the "Course On Demand" on YouTube, and it is reverse-engineered from "DAPP University." You can find his page on YouTube. If you find it interesting, you may want to explore his works.
-
 ## 1. To clone or download this project, simply run: 
 
 git clone - https://github.com/Zellsed/defi-staking-app-starter.git
