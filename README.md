@@ -4,7 +4,7 @@
 
 - Development Direction: Additional features can be added, such as when the countdown timer reaches 0, it will issue tokens or rewards for users. Correspondingly, a certain amount of Reward tokens will be added to their accounts as an encouraging gift, incentivizing their positive actions.
 
-## Tools used
+## Tech Stack
 - Node.js
 - Truffle
 - Ganache
