@@ -1,16 +1,6 @@
 # defi-staking-app-starter:
 
-- Explanation: This is a blockchain project with the ERC20 standard theme. It allows the use of a specific address on Ganache connected to MetaMask and deployed on the web. When deployed, it will require entering the MetaMask password to grant access. If the password is not entered correctly, it will display a waiting screen without processing. Once successfully logged in, the account owner can deposit and withdraw funds, with the default balance initialized at 100 ETH. Depositing here means the account owner can delegate to the decentralBank as an intermediary to process the deposited amount, corresponding to an increase in the staking balance with USDT tokens. The withdrawal function allows the account owner to withdraw the entire delegated balance back to the original account. When the sender has more than 50 ETH, it will trigger a countdown timer with 20 seconds.
-
 - Development Direction: Additional features can be added, such as when the countdown timer reaches 0, it will issue tokens or rewards for users. Correspondingly, a certain amount of Reward tokens will be added to their accounts as an encouraging gift, incentivizing their positive actions.
-
-## Tech Stack
-- Node.js
-- Truffle
-- Ganache
-- React.js
-- Solidity
-- Metamask.
 
 ## Initial screen, failure to connect to Metamask will result in being stuck at the waiting screen.
 ![{C2FA09A1-9BEE-4BDB-8879-B0E368DA88EA} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/7c9423a4-b35e-4cbc-bf59-88cea51093b2)
